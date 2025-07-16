@@ -14,21 +14,15 @@ A real-time, WebSocket-based **multiplayer Tic Tac Toe** game built with Node.js
 
 ---
 
-## 🖼️ Preview
-
-<img src="https://i.imgur.com/2YrHqZK.png" width="400" />
-
----
-
 ## 🗂️ Project Structure
 tic-tac-toe/
-├── client/ # Frontend (HTML, CSS, JS)
-│ ├── index.html
-│ ├── style.css
-│ └── app.js
-├── server/ # WebSocket backend (Node.js)
-│ └── index.js
-└── README.md
+1. client/ # Frontend (HTML, CSS, JS)
+      i. index.html
+      ii. style.css
+      iii. app.js
+2. server/ # WebSocket backend (Node.js)
+     i. index.js
+3. README.md
 
 ## 🚀 How to Run Locally
 
@@ -60,7 +54,7 @@ npx http-server -p 8000
 http://localhost:8000
 ```
 
-🧠 Tech Stack
+🧠 Tech Stack : 
 Node.js + WebSocket (ws)
 Vanilla JS
 HTML + CSS
