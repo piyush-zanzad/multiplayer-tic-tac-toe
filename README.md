@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-live-brightgreen)
+![Tech](https://img.shields.io/badge/tech-stack-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 # 🎮 Multiplayer Tic Tac Toe Game
 
 A real-time, WebSocket-based **multiplayer Tic Tac Toe** game built with Node.js and vanilla JS. Supports both **random matchmaking** and **custom room codes**. 🎯
